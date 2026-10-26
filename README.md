@@ -5,7 +5,7 @@
 
 ```bash
 # By extension
-find . -type f -name "*.pdf"
+find . -type f -name "*.pdf"  //instead of .pdf u can use different extension u want to use
 ```
 
 ```bash
@@ -16,8 +16,3 @@ find . -type f \( -name "*.pdf" -o -name "*.docx" \)
 ```
 
 
-- `.` — current directory
-- `~` — home directory
-- `/` — root directory
-- `-iname` — case-insensitive search
-- `>` — save output to a file
