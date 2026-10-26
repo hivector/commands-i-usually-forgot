@@ -5,7 +5,7 @@
 
 ```bash
 # By extension
-find . -type f -name "*.pdf"  //instead of .pdf u can use different extension u want to use
+find . -type f -name "*.pdf"  
 ```
 
 ```bash
