@@ -1,15 +1,15 @@
 # commands-i-usually-forgot
 
 
-1. to find the files 
+##1. to find the files 
 
-### By specific extension
+#### By specific extension
 
 ```bash
 find . -type f -name "*.pdf"  
 ```
 
-### Multiple extensions
+#### Multiple extensions
 ```bash
 find . -type f \( -name "*.pdf" -o -name "*.docx" \)
 ```
