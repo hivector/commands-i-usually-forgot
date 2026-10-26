@@ -3,13 +3,14 @@
 
 1. to find the files 
 
+# By specific extension
+
 ```bash
-# By extension
 find . -type f -name "*.pdf"  
 ```
 
-```bash
 # Multiple extensions
+```bash
 find . -type f \( -name "*.pdf" -o -name "*.docx" \)
 
 
