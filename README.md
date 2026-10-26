@@ -1,7 +1,7 @@
 # commands-i-usually-forgot
 
 
-#1. to find the files 
+# to find the files 
 
 #### By specific extension
 
